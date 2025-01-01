@@ -1,0 +1,9 @@
+com\tareas\gestion_tareas\service\TareaService.class
+com\tareas\gestion_tareas\ServletInitializer.class
+com\tareas\gestion_tareas\controller\CategoryController.class
+com\tareas\gestion_tareas\GestionTareasApplication.class
+com\tareas\gestion_tareas\entity\TareaEntity.class
+com\tareas\gestion_tareas\repository\TareaRepository.class
+com\tareas\gestion_tareas\entity\TareaEntity$EstadoTarea.class
+com\tareas\gestion_tareas\controller\TareaController.class
+com\tareas\gestion_tareas\config\JacksonConfig.class
